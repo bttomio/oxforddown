@@ -1,0 +1,5 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.1}Making LaTeX tables play nice}{\reset@font\mtcSfont 23}{section.3.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.1.1}Making your table pretty}{\reset@font\mtcSSfont 23}{subsection.3.1.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.1.2}If your table is too wide}{\reset@font\mtcSSfont 24}{subsection.3.1.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.1.3}If your table is too long}{\reset@font\mtcSSfont 25}{subsection.3.1.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.1.4}Max power: manually adjust the raw LaTeX output}{\reset@font\mtcSSfont 27}{subsection.3.1.4}}

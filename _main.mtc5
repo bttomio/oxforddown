@@ -1,0 +1,25 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.1}Basic markdown syntax}{\reset@font\mtcSfont 4}{section.1.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.1}Whitespace}{\reset@font\mtcSSfont 4}{subsection.1.1.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.2}Italics and bold}{\reset@font\mtcSSfont 4}{subsection.1.1.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.3}Inline code}{\reset@font\mtcSSfont 4}{subsection.1.1.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.4}Sub and superscript}{\reset@font\mtcSSfont 4}{subsection.1.1.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.5}Strikethrough}{\reset@font\mtcSSfont 4}{subsection.1.1.5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.6}`Escaping' (aka ``What if I need an actual asterisk?'')}{\reset@font\mtcSSfont 5}{subsection.1.1.6}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.7}Endash (--), emdash (---)}{\reset@font\mtcSSfont 5}{subsection.1.1.7}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.8}Blockquotes}{\reset@font\mtcSSfont 5}{subsection.1.1.8}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.9}Headings}{\reset@font\mtcSSfont 5}{subsection.1.1.9}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.10}Lists}{\reset@font\mtcSSfont 5}{subsection.1.1.10}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.11}Line breaks}{\reset@font\mtcSSfont 6}{subsection.1.1.11}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.12}Hyperlinks}{\reset@font\mtcSSfont 6}{subsection.1.1.12}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.13}Footnotes}{\reset@font\mtcSSfont 7}{subsection.1.1.13}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.14}Comments}{\reset@font\mtcSSfont 7}{subsection.1.1.14}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1.15}Math}{\reset@font\mtcSSfont 7}{subsection.1.1.15}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.2}Executable code chunks}{\reset@font\mtcSfont 8}{section.1.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.1}Setup chunks - setup, images, plots}{\reset@font\mtcSSfont 9}{subsection.1.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.2}Including images}{\reset@font\mtcSSfont 9}{subsection.1.2.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Figure rotation}{\reset@font\mtcSSSfont 9}{figure.caption.10}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.3}Including plots}{\reset@font\mtcSSfont 10}{subsection.1.2.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.4}Including tables}{\reset@font\mtcSSfont 12}{subsection.1.2.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.5}Control positioning}{\reset@font\mtcSSfont 12}{subsection.1.2.5}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.3}Executable inline code}{\reset@font\mtcSfont 13}{section.1.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.4}Executable code in other languages than R}{\reset@font\mtcSfont 14}{section.1.4}}
